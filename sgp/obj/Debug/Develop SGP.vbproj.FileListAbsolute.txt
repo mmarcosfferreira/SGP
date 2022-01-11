@@ -1,0 +1,95 @@
+C:\Develop SGP\bin\Debug\Formulários\Filtro de datas.resx
+C:\Develop SGP\bin\Debug\Formulários\FRMedição.resx
+C:\Develop SGP\bin\Debug\Formulários\Filtro de datas.Designer.vb
+C:\Develop SGP\bin\Debug\Formulários\Filtro de datas.vb
+C:\Develop SGP\bin\Debug\Formulários\FRMedição.Designer.vb
+C:\Develop SGP\bin\Debug\Formulários\FRMedição.vb
+C:\Develop SGP\bin\Debug\Develop SGP.exe.config
+C:\Develop SGP\bin\Debug\Develop SGP.exe
+C:\Develop SGP\bin\Debug\Develop SGP.pdb
+C:\Develop SGP\bin\Debug\Develop SGP.xml
+C:\Develop SGP\bin\Debug\Guna.UI.dll
+C:\Develop SGP\bin\Debug\Guna.UI2.dll
+C:\Develop SGP\bin\Debug\MetroFramework.Design.dll
+C:\Develop SGP\bin\Debug\MetroFramework.dll
+C:\Develop SGP\bin\Debug\MetroFramework.Fonts.dll
+C:\Develop SGP\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Develop SGP\obj\Debug\Develop_SGP.FRMFiltroDatas.resources
+C:\Develop SGP\obj\Debug\Develop_SGP.FRM_edição.resources
+C:\Develop SGP\obj\Debug\Develop_SGP.FrmGeral.resources
+C:\Develop SGP\obj\Debug\Develop_SGP.TelaInicial.resources
+C:\Develop SGP\obj\Debug\Develop_SGP.Resources.resources
+C:\Develop SGP\obj\Debug\Develop SGP.vbproj.GenerateResource.cache
+C:\Develop SGP\obj\Debug\Develop SGP.vbproj.CoreCompileInputs.cache
+C:\Develop SGP\obj\Debug\Develop SGP.vbproj.CopyComplete
+C:\Develop SGP\obj\Debug\Develop SGP.exe
+C:\Develop SGP\obj\Debug\Develop SGP.xml
+C:\Develop SGP\obj\Debug\Develop SGP.pdb
+C:\Develop SGP\bin\Debug\Formulários\FrmGeral.resx
+C:\Develop SGP\bin\Debug\Formulários\FrmGeral.Designer.vb
+C:\Develop SGP\bin\Debug\Formulários\FrmGeral.vb
+D:\Develop SGP\bin\Debug\Formulários\Filtro de datas.resx
+D:\Develop SGP\bin\Debug\Formulários\FRMedição.resx
+D:\Develop SGP\bin\Debug\Formulários\FrmGeral.resx
+D:\Develop SGP\bin\Debug\Formulários\Filtro de datas.Designer.vb
+D:\Develop SGP\bin\Debug\Formulários\Filtro de datas.vb
+D:\Develop SGP\bin\Debug\Formulários\FRMedição.Designer.vb
+D:\Develop SGP\bin\Debug\Formulários\FRMedição.vb
+D:\Develop SGP\bin\Debug\Formulários\FrmGeral.Designer.vb
+D:\Develop SGP\bin\Debug\Formulários\FrmGeral.vb
+D:\Develop SGP\bin\Debug\Develop SGP.exe.config
+D:\Develop SGP\bin\Debug\Develop SGP.exe
+D:\Develop SGP\bin\Debug\Develop SGP.pdb
+D:\Develop SGP\bin\Debug\Develop SGP.xml
+D:\Develop SGP\bin\Debug\Guna.UI.dll
+D:\Develop SGP\bin\Debug\Guna.UI2.dll
+D:\Develop SGP\bin\Debug\MetroFramework.Design.dll
+D:\Develop SGP\bin\Debug\MetroFramework.dll
+D:\Develop SGP\bin\Debug\MetroFramework.Fonts.dll
+D:\Develop SGP\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Develop SGP\obj\Debug\Develop_SGP.FRMFiltroDatas.resources
+D:\Develop SGP\obj\Debug\Develop_SGP.FRM_edição.resources
+D:\Develop SGP\obj\Debug\Develop_SGP.FrmGeral.resources
+D:\Develop SGP\obj\Debug\Develop_SGP.TelaInicial.resources
+D:\Develop SGP\obj\Debug\Develop_SGP.Resources.resources
+D:\Develop SGP\obj\Debug\Develop SGP.vbproj.GenerateResource.cache
+D:\Develop SGP\obj\Debug\Develop SGP.vbproj.CoreCompileInputs.cache
+D:\Develop SGP\obj\Debug\Develop SGP.vbproj.CopyComplete
+D:\Develop SGP\obj\Debug\Develop SGP.exe
+D:\Develop SGP\obj\Debug\Develop SGP.xml
+D:\Develop SGP\obj\Debug\Develop SGP.pdb
+D:\Develop SGP\obj\Debug\Develop SGP.vbprojAssemblyReference.cache
+C:\Develop SGP\obj\Debug\Develop_SGP.FrmVolume.resources
+C:\Develop SGP\obj\Debug\Develop SGP.vbprojAssemblyReference.cache
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Formulários\Filtro de datas.resx
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Formulários\FRMedição.resx
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Formulários\FrmGeral.resx
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Formulários\Filtro de datas.Designer.vb
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Formulários\Filtro de datas.vb
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Formulários\FRMedição.Designer.vb
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Formulários\FRMedição.vb
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Formulários\FrmGeral.Designer.vb
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Formulários\FrmGeral.vb
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Develop SGP.exe.config
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Develop SGP.exe
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Develop SGP.pdb
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Develop SGP.xml
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Guna.UI.dll
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Guna.UI2.dll
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\MetroFramework.Design.dll
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\MetroFramework.dll
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\marcosferreira\Desktop\__\Develop SGP\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop SGP.vbprojAssemblyReference.cache
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop_SGP.FRMFiltroDatas.resources
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop_SGP.FRM_edição.resources
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop_SGP.FrmGeral.resources
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop_SGP.FrmVolume.resources
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop_SGP.TelaInicial.resources
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop_SGP.Resources.resources
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop SGP.vbproj.GenerateResource.cache
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop SGP.vbproj.CoreCompileInputs.cache
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop SGP.vbproj.CopyComplete
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop SGP.exe
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop SGP.xml
+C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop SGP.pdb

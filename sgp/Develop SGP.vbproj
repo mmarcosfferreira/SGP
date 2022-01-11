@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D9295EB-05E2-444C-929E-09D3EB288F41}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Develop_SGP.My.MyApplication</StartupObject>
+    <RootNamespace>Develop_SGP</RootNamespace>
+    <AssemblyName>Develop SGP</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Develop SGP.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Develop SGP.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\MTR\Principal\Bunifu_UI_v1.5.3.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>Dlls\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.0.6, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dlls\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.37.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dlls\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Formulários\Filtro de datas.Designer.vb">
+      <DependentUpon>Filtro de datas.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Formulários\Filtro de datas.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\FRMedição.Designer.vb">
+      <DependentUpon>FRMedição.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Formulários\FRMedição.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\FrmGeral.Designer.vb">
+      <DependentUpon>FrmGeral.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Formulários\FrmGeral.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\FrmVolume.Designer.vb">
+      <DependentUpon>FrmVolume.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\FrmVolume.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\TelaInicial.Designer.vb">
+      <DependentUpon>TelaInicial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulários\TelaInicial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos e Classes\AjudaTooltip.vb" />
+    <Compile Include="Modulos e Classes\CarregarDadosLocalmente.vb" />
+    <Compile Include="Modulos e Classes\ColocarFormularionoTopoChamarformulario.vb" />
+    <Compile Include="Modulos e Classes\FileCompare.vb" />
+    <Compile Include="Modulos e Classes\FORMATO_MOEDA.vb" />
+    <Compile Include="Modulos e Classes\FTP_Upload.vb" />
+    <Compile Include="Modulos e Classes\Impressão.vb" />
+    <Compile Include="Modulos e Classes\Internet.vb" />
+    <Compile Include="Modulos e Classes\LIMPARTODASTEXTBOX.vb" />
+    <Compile Include="Modulos e Classes\ModuleFTP.vb" />
+    <Compile Include="Modulos e Classes\Notifyicone.vb" />
+    <Compile Include="Modulos e Classes\Pesquisar em Listview o Item.vb" />
+    <Compile Include="Modulos e Classes\ProperCase.vb" />
+    <Compile Include="Modulos e Classes\Reproduzir_Som.vb" />
+    <Compile Include="Modulos e Classes\SalvarDadosLocalmenteListview.vb" />
+    <Compile Include="Modulos e Classes\SOLETRAS.vb" />
+    <Compile Include="Modulos e Classes\SONUMEROS.vb" />
+    <Compile Include="Modulos e Classes\TopMost_.vb" />
+    <Compile Include="Modulos e Classes\UsuarioLogado.vb" />
+    <Compile Include="Modulos e Classes\VALIDARENTRADA.vb" />
+    <Compile Include="Modulos e Classes\Volume do Windows.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Formulários\Filtro de datas.resx">
+      <DependentUpon>Filtro de datas.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\FRMedição.resx">
+      <DependentUpon>FRMedição.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\FrmGeral.resx">
+      <DependentUpon>FrmGeral.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\FrmVolume.resx">
+      <DependentUpon>FrmVolume.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\TelaInicial.resx">
+      <DependentUpon>TelaInicial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Dlls\Bunifu_UI_v1.52.dll" />
+    <Content Include="Dlls\Guna.UI2.dll" />
+    <Content Include="Dlls\Tulpep.NotificationWindow.dll" />
+    <None Include="Icones\ico\Volume.jpg" />
+    <None Include="Icones\ico\button_blue_stop.ico" />
+    <None Include="Icones\ico\cheacado.ico" />
+    <None Include="Icones\ico\database.ico" />
+    <None Include="Icones\ico\delete.ico" />
+    <None Include="Icones\ico\edit_user.ico" />
+    <None Include="Icones\ico\file_document_paper_blue_g11822.ico" />
+    <None Include="Icones\ico\file_document_paper_blue_g14989.ico" />
+    <None Include="Icones\ico\file_document_paper_blue_g37966.ico" />
+    <None Include="Icones\ico\file_document_paper_blue_g38055.ico" />
+    <None Include="Icones\ico\finder_blue.ico" />
+    <None Include="Icones\ico\folder.ico" />
+    <None Include="Icones\ico\gear_blue.ico" />
+    <None Include="Icones\ico\globe.ico" />
+    <None Include="Icones\ico\help_blue.ico" />
+    <None Include="Icones\ico\info_blue.ico" />
+    <None Include="Icones\ico\lapiz_azul.ico" />
+    <None Include="Icones\ico\Lixeira.ico" />
+    <None Include="Icones\ico\location_ftp.ico" />
+    <None Include="Icones\ico\minimize.ico" />
+    <None Include="Icones\ico\refresh.ico" />
+    <None Include="Icones\ico\register.ico" />
+    <None Include="Icones\ico\trans_win_trans_blue.ico" />
+    <None Include="Icones\ico\undo_blue.ico" />
+    <None Include="Icones\ico\warning_blue.ico" />
+    <None Include="Icones\ico\Add.ico" />
+    <None Include="Icones\ico\blue_01.ico" />
+    <None Include="Icones\ico\blue_04.ico" />
+    <None Include="Icones\ico\Vital.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

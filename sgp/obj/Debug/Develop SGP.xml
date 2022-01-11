@@ -1,0 +1,217 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Develop SGP
+</name>
+</assembly>
+<members>
+<member name="T:Develop_SGP.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.Add">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.blue_01">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.blue_04">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.button_blue_stop">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.cheacado">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.database">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.delete">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.edit_user">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.file_document_paper_blue_g11822">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.file_document_paper_blue_g14989">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.file_document_paper_blue_g37966">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.file_document_paper_blue_g38055">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.finder_blue">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.folder">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.gear_blue">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.globe">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.help_blue">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.info_blue">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.lapiz_azul">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.Lixeira">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.location_ftp">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.minimize">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.minimize1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.refresh">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.register">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.trans_win_trans_blue">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.undo_blue">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.Vital">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.Volume">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Develop_SGP.My.Resources.Resources.warning_blue">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Develop_SGP.FrmGeral.BTCARREGAR_Click(System.Object,System.EventArgs)">
+ <summary>
+ Faz o dowload do servidor para em seguida carregar no local de destino onde fará a leitura para o objeto Listview
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Develop_SGP.FileCompare.FileCompare(System.String,System.String)">
+ <summary>
+ Este método aceita duas strings que representam dois arquivos para comparar.
+ <sumary>Um valor de retorno de 0 indica que o conteúdo dos arquivos </sumary>
+ <sumary>são os mesmos. Um valor de retorno de qualquer outro valor indica que os arquivos não são iguais.</sumary>
+ </summary>
+ <param name="file1"></param>
+ <param name="file2"></param>
+ <returns></returns>
+</member>
+<member name="M:Develop_SGP.FORMATO_MOEDA.TextBoxMoeda(System.Windows.Forms.TextBox@)">
+ <summary>
+ Método que formata para moeda o conteúdo de um TextBox 
+ Frequetemente usado no evento TextChanged
+ </summary>
+ <param name="txt">Controle a ser formatado</param>
+ <remarks> Chamar no evento changetext </remarks>
+</member>
+<member name="M:Develop_SGP.Reproduzir_Som.Play(System.String)">
+ <summary>
+ AudioPlayMode.Background: Reproduz o som em segundo plano. O código de chamada continua a ser executado.
+ AudioPlayMode.BackgroundLoop: Reproduz o som em segundo plano até que o método Stop seja chamado. O código de chamada continua a ser executado.
+ AudioPlayMode.WaitToComplete: Reproduz o som e aguarda até que seja concluído antes que o código de chamada continue.
+ </summary>
+ <param name="NomedoArquivo_e_Extencão"></param>
+</member>
+<member name="M:Develop_SGP.SalvarDados.SalvarDadosLocalmenteListview_depoisnaNuvem(System.String,System.Windows.Forms.ListView,System.Object)">
+ <summary>
+ Salva no local diretorio e faz o upload p o server
+ </summary>
+ <param name="Local"></param>
+ <param name="lV"></param>
+ <param name="bt"></param>
+</member>
+</members>
+</doc>

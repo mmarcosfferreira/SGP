@@ -1,0 +1,79 @@
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP by Marcos Ferreira.exe.config
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP by Marcos Ferreira.exe
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP by Marcos Ferreira.pdb
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP by Marcos Ferreira.xml
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.vbprojAssemblyReference.cache
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP_by_Marcos_Ferreira.Form1.resources
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP_by_Marcos_Ferreira.Resources.resources
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.vbproj.GenerateResource.cache
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.vbproj.CoreCompileInputs.cache
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.exe
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.xml
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.pdb
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP_by_Marcos_Ferreira.Form2.resources
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP_by_Marcos_Ferreira.Form3.resources
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP_by_Marcos_Ferreira.FrmGeral.resources
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\bin\Debug\Guna.UI2.dll
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.vbproj.CopyComplete
+C:\Users\mmarc\source\repos\Develop SGP by Marcos Ferreira\bin\Debug\Guna.UI.dll
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Guna.UI.dll
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Guna.UI2.dll
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.vbproj.GenerateResource.cache
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.vbproj.CoreCompileInputs.cache
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.vbproj.CopyComplete
+C:\Develop SGP by Marcos Ferreira\bin\Debug\MetroFramework.Design.dll
+C:\Develop SGP by Marcos Ferreira\bin\Debug\MetroFramework.dll
+C:\Develop SGP by Marcos Ferreira\bin\Debug\MetroFramework.Fonts.dll
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.vbprojAssemblyReference.cache
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Filtro de datas.resx
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Form3.resx
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Filtro de datas.Designer.vb
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Filtro de datas.vb
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Form3.Designer.vb
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Form3.vb
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP by Marcos Ferreira.exe.config
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP by Marcos Ferreira.exe
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP by Marcos Ferreira.pdb
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP by Marcos Ferreira.xml
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Guna.UI.dll
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Guna.UI2.dll
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\MetroFramework.Design.dll
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\MetroFramework.dll
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP_by_Marcos_Ferreira.FRMFiltroDatas.resources
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP_by_Marcos_Ferreira.Form2.resources
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP_by_Marcos_Ferreira.Form3.resources
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP_by_Marcos_Ferreira.FrmGeral.resources
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP_by_Marcos_Ferreira.FRMControlePesagemManual_.resources
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP_by_Marcos_Ferreira.Resources.resources
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.vbproj.GenerateResource.cache
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.vbproj.CoreCompileInputs.cache
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.vbproj.CopyComplete
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.exe
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.xml
+C:\Users\mmarc\Contacts\Desktop\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP by Marcos Ferreira.pdb
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Filtro de datas.resx
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Form3.resx
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Filtro de datas.Designer.vb
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Filtro de datas.vb
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Form3.Designer.vb
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Formulários\Form3.vb
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP.FRMFiltroDatas.resources
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP.Form2.resources
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP.Form3.resources
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP.FrmGeral.resources
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP.FRMControlePesagemManual_.resources
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop_SGP.Resources.resources
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP.exe.config
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP.exe
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP.pdb
+C:\Develop SGP by Marcos Ferreira\bin\Debug\Develop SGP.xml
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP.exe
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP.xml
+C:\Develop SGP by Marcos Ferreira\obj\Debug\Develop SGP.pdb
