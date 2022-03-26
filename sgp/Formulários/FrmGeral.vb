@@ -1604,12 +1604,13 @@ Class FrmGeral
 
 
 
-    'If ProgressBar1.Value = 100 Then
-    '    Dim t As Task = System.Threading.Tasks.Task.Run(Sub()
-    '                                                        DesvalidardadosnoLoad()
-    '                                                    End Sub)
-    '    t.Wait()
-    'End If
+
+   'If ProgressBar1.Value = 100 Then
+   '    Dim t As Task = System.Threading.Tasks.Task.Run(Sub()
+   '                                                        DesvalidardadosnoLoad()
+   '                                                    End Sub)
+   '    t.Wait()
+   'End If
 
 
 

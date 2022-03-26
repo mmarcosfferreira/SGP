@@ -93,3 +93,36 @@ C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop SGP.vbproj.Copy
 C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop SGP.exe
 C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop SGP.xml
 C:\Users\marcosferreira\Desktop\__\Develop SGP\obj\Debug\Develop SGP.pdb
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Formulários\Filtro de datas.resx
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Formulários\FRMedição.resx
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Formulários\FrmGeral.resx
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Formulários\Filtro de datas.Designer.vb
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Formulários\Filtro de datas.vb
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Formulários\FRMedição.Designer.vb
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Formulários\FRMedição.vb
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Formulários\FrmGeral.Designer.vb
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Formulários\FrmGeral.vb
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Develop SGP.exe.config
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Develop SGP.exe
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Develop SGP.pdb
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Develop SGP.xml
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Guna.UI.dll
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Guna.UI2.dll
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\MetroFramework.Design.dll
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\MetroFramework.dll
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\MetroFramework.Fonts.dll
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop SGP.vbproj.AssemblyReference.cache
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop SGP.vbproj.SuggestedBindingRedirects.cache
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop_SGP.FRMFiltroDatas.resources
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop_SGP.FRM_edição.resources
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop_SGP.FrmGeral.resources
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop_SGP.FrmVolume.resources
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop_SGP.TelaInicial.resources
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop_SGP.Resources.resources
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop SGP.vbproj.GenerateResource.cache
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop SGP.vbproj.CoreCompileInputs.cache
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop SGP.vbproj.CopyComplete
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop SGP.exe
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop SGP.xml
+D:\Desenvolvimento\mmarcosfferreira\sgp\sgp\obj\Debug\Develop SGP.pdb

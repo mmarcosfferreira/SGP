@@ -13,7 +13,7 @@ Public Class Notifyicone_PopupNotifier
                           ByVal tempo_deexibicao As Integer, ByVal Optional Ct As Object = Nothing)  'ByVal Textoassociado_ao_Controle As String
 
 
-        Dim notificacao = New PopupNotifier With {
+      Dim notificacao = New PopupNotifier With {
             .ImageSize = New Size(70, 70),
             .BodyColor = Color.White,
             .AnimationInterval = 1,
@@ -23,9 +23,9 @@ Public Class Notifyicone_PopupNotifier
             .IsRightToLeft = False,
             .ShowCloseButton = True,
             .ContentColor = Color.Black, 'cor da escrita
-            .Image = Image.FromFile("C:\Develop SGP\Icones\ico\VS.ico", True) ' .Image = Image.FromFile("C:\Users\marcosferreira\Desktop\MTR\Principal\Resources\vs.ico", True)   
+            .Image = Image.FromFile(Application.StartupPath + "\Icones\ico\VS.ico", True)'Image.FromFile("C:\Develop SGP\Icones\ico\VS.ico", True) ' .Image = Image.FromFile("C:\Users\marcosferreira\Desktop\MTR\Principal\Resources\vs.ico", True)    
                     }
-        notificacao.Popup()
+      notificacao.Popup()
 
 
     End Sub
